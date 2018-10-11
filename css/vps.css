@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background-color:#C9CFDD;
+  background-color:#8be9e7;
 }
 
 .header {
@@ -27,7 +27,7 @@ body {
 
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #0b0a0a;
 }
 
 .topnav a {
